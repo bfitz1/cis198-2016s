@@ -1,0 +1,7 @@
+[package]
+name = "hw00"
+version = "0.1.0"
+authors = ["Blair Fitzhugh <bfitz1@umbc.edu>"]
+edition = "2018"
+
+[dependencies]
